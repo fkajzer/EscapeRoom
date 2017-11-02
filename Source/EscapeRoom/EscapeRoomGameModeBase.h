@@ -7,14 +7,14 @@
 #include "EscapeRoomGameModeBase.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
 class ESCAPEROOM_API AEscapeRoomGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };
